@@ -4,7 +4,7 @@ import lombok.Data;
 
 
 @Data
-public class weatherResponse {
+public class WeatherResponse {
 
     private String city ;
 
